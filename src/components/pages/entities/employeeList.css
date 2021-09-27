@@ -1,0 +1,22 @@
+.employeeList{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: var(--app-container);
+    transition: 0.2s;
+    max-width: 1800px;
+
+}
+
+
+
+.employeeListForm{
+    margin-top: 85px;
+    display: flex;
+    flex-direction: row;
+}
+
+.employeeLists{
+    flex: 1 1 100%;
+}

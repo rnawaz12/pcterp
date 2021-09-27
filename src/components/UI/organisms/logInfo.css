@@ -1,0 +1,15 @@
+.logInfo{
+    width: 100%;
+    background-color: aliceblue;
+    padding: 2px 10px;
+}
+
+.logInfoTop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logInfoActorName{
+    font-size: 20px;
+}

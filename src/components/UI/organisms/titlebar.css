@@ -1,0 +1,29 @@
+.titlebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 50px;
+    background-color: white;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.titlebarTop{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.titlebarBottom{
+    padding: 0 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.pageTitle{
+    font-size: 18px;
+}
